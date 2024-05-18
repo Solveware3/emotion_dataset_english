@@ -1,2 +1,3 @@
-# Text-Mining
- Final Exam_Dataset
+# Proposal Skripsi
+
+Berisi dataset 
